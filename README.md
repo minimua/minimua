@@ -4,6 +4,9 @@
 [![muja-blog](https://img.shields.io/badge/muja-blog-9cf)](https://www.mujaspace.com)
 
 🌈INFJ-T/我也是个Rapper/演唱会和livehouse的消费者/假二次元/不算程序员的码农/梦想是死在音乐现场/究极自闭症社恐患
+
+
+![](https://github.com/minimua/GitHubPoster/blob/main/examples/duolingo.svg)
 <!--
 **minimua/minimua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
