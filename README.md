@@ -5,6 +5,11 @@
 
 🌈INFJ-T/我也是个Rapper/演唱会和livehouse的消费者/假二次元/不算程序员的码农/梦想是死在音乐现场/究极自闭症社恐患
 
+[我的相册](https://pics.voidmu.com/)
+
+[我的阅读](https://weread.voidmu.com/)
+
+[我的工具](https://tools.voidmu.com/)
 
 ![](https://github.com/minimua/GitHubPoster/blob/main/examples/duolingo.svg)
 <!--
