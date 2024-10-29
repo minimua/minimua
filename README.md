@@ -1,7 +1,7 @@
 ## Hi there👋
 
 [![wakatime](https://wakatime.com/badge/user/15b51d6a-6f6b-4262-9a41-e90289da81c5.svg)](https://wakatime.com/@15b51d6a-6f6b-4262-9a41-e90289da81c5)
-[![muja-blog](https://img.shields.io/badge/muja-blog-9cf)](https://www.mujaspace.com)
+[![muja-blog](https://img.shields.io/badge/muja-blog-9cf)](https://www.voidmu.com)
 
 🌈INFJ-T/我也是个Rapper/演唱会和livehouse的消费者/假二次元/不算程序员的码农/梦想是死在音乐现场/究极自闭症社恐患
 
